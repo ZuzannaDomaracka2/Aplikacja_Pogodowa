@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projekt</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="weatherkey">3331f4774dd0d3514106dfee02e76b59</string>
+    <string name="unitsmetric">metric</string>
+
+</resources>
